@@ -48,7 +48,7 @@
     </build>
     <scm>
         <developerConnection>
-            scm:git:git@github.com:vivekjain3637/SFG_petclinic_springboot
+            scm:git:https://github.com/vivekjain3637/SFG_petclinic_springboot.git
         </developerConnection>
       <tag>0.0.1</tag>
   </scm>
